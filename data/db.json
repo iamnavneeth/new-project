@@ -1,0 +1,34 @@
+{
+  "players": [
+    {
+      "name": "Cristiano Ronaldo",
+      "details": "Playing for Juventus Fc and Portugal National team",
+      "country": "Portugal",
+      "id": 1
+    },
+    {
+      "name": "Lionel Messi",
+      "details": "Playing for Fc Barcelona and Argentina National team",
+      "country": "Argentina",
+      "id": 2
+    },
+    {
+      "name": "Neymar Jr",
+      "details": "Playing for Paris-Saint-Germain and Brazil National team",
+      "country": "Brazil",
+      "id": 3
+    },
+    {
+      "name": "Mbappe",
+      "country": "France",
+      "details": "hfhffjkfkjjkf",
+      "id": 4
+    },
+    {
+      "name": "Mount",
+      "country": "England",
+      "details": "Chelsea",
+      "id": 5
+    }
+  ]
+}
